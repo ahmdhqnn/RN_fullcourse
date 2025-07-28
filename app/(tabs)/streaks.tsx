@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function exampleScreen() {
+export default function StreaksScreen() {
     return (
         <View
             style={styles.view}
@@ -15,5 +15,6 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor: "#f5f5f5"
     },
 });
