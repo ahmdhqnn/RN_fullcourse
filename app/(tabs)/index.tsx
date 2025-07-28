@@ -20,11 +20,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
+    backgroundColor: "#f5f5f5",
   },
   navButton: {
     marginTop: 20,
     padding: 10,
-    backgroundColor: "#007AFF",
     borderRadius: 5,
   }
 });
